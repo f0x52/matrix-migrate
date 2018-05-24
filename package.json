@@ -1,7 +1,7 @@
 {
-  "name": "fed-tester",
+  "name": "matrix-migrate",
   "version": "1.0.0",
-  "description": "Frontend for matrix-federation-tester",
+  "description": "Migrate a matrix account",
   "author": "f0x",
   "license": "AGPL-3.0",
   "scripts": {
